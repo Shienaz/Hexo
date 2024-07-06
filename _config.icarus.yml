@@ -162,24 +162,6 @@ search:
     type: insight
     # Whether to include pages in the search results
     index_pages: true
-# Comment plugin configurations
-# https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
-comment:
-     type: gitalk
-    client_id: Ov23li1ov50Cia38MWeY
-    client_secret: faae11af43ea36eb2cbf2ad3c12e83295994a411
-    repo: Hexo
-    owner: Shienaz
-    admin:
-        - Shienaz
-    per_page: 15                    # 可选填
-    distraction_free_mode: false    # 可选填
-    pager_direction: last           # 可选填
-    create_issue_manually: false    # 可选填
-    proxy:                          # 可选填
-    flip_move_options:              # 可选填
-    enable_hotkey: true             # 可选填
-    language: zh-CN                 # 可选填
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
 donates:
