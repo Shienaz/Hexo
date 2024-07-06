@@ -166,8 +166,8 @@ search:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
      type: gitalk
-    client_id: Ov23liifh7QhDzZDzWm0
-    client_secret: 9ebd89ad02c6a87ea6ae8b0036ded99acb04ebab
+    client_id: Ov23li1ov50Cia38MWeY
+    client_secret: 6299020558768363f07680ad449fcd663cc79cb0
     repo: Hexo
     owner: Shienaz
     admin:
