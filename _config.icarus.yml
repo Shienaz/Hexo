@@ -167,7 +167,7 @@ search:
 comment:
      type: gitalk
     client_id: Ov23li1ov50Cia38MWeY
-    client_secret: 6299020558768363f07680ad449fcd663cc79cb0
+    client_secret: faae11af43ea36eb2cbf2ad3c12e83295994a411
     repo: Hexo
     owner: Shienaz
     admin:
